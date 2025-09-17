@@ -1,4 +1,5 @@
-# EXPENCE-TRACKER
+# Snappy Expense Visualizer
+
 Snappy Expense Visualizer is a simple and intuitive expense tracker app, allowing users to monitor their financial flows by categorizing incomes and expenses. Visualize your money movement and make informed decisions with ease.
 
 ---
@@ -30,8 +31,9 @@ npm run dev
 
 This project is built with:
 
+- Vite
 - TypeScript
 - React
-- HTML
-- CSS
+- shadcn-ui
 - Tailwind CSS
+
